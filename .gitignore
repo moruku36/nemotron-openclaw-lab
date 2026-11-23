@@ -5,3 +5,12 @@
 reports/
 .rendered/
 .DS_Store
+
+# Local lab state and raw evidence
+/.openclaw*/
+/.ollama/
+/.nemoclaw/
+/local/
+/evidence/
+*.log
+*.gguf
